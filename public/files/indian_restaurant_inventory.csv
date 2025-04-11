@@ -1,0 +1,201 @@
+Name,Quantity,Unit,Expiration Date,Category,Min Quantity,Cost
+Tomato,18,kg,2025-08-24,vegetables,2,322
+Mustard Oil,1,L,2025-05-04,oils,4,634
+Fish,33,kg,2025-09-25,meat,3,192
+Cheese,44,L,2025-07-26,dairy,7,71
+Fish,30,kg,2025-07-15,meat,8,538
+Mustard Oil,10,L,2025-10-12,oils,9,789
+Carrot,46,kg,2026-02-24,vegetables,2,499
+Ghee,5,L,2026-01-03,dairy,10,771
+Ghee,44,L,2026-03-25,dairy,7,892
+Garam Masala,47,g,2025-07-26,spices,5,727
+Butter,38,L,2025-08-20,dairy,3,859
+Tomato,42,kg,2025-04-20,vegetables,8,962
+Capsicum,11,kg,2025-06-08,vegetables,10,772
+Sugar,1,kg,2025-11-06,grains,10,544
+Butter,29,L,2025-06-19,dairy,3,536
+Coriander Powder,43,g,2025-06-25,spices,9,582
+Mutton,35,kg,2025-07-17,meat,6,775
+Cardamom,47,g,2025-11-30,spices,9,406
+Mustard Seeds,43,g,2025-07-28,spices,4,77
+Red Chili Powder,11,g,2025-07-16,spices,10,646
+Curd,9,L,2025-09-08,dairy,4,205
+Rice,45,kg,2025-09-15,grains,3,631
+Rice,8,kg,2025-12-30,grains,3,203
+Coriander Powder,24,g,2026-03-27,spices,9,602
+Ghee,8,L,2025-07-22,dairy,3,113
+Cumin,34,g,2026-02-16,spices,9,53
+Mustard Oil,14,L,2025-08-12,oils,5,225
+Butter,22,L,2026-01-28,dairy,3,965
+Wheat Flour,3,kg,2025-07-07,grains,2,871
+Sunflower Oil,13,L,2026-03-06,oils,2,962
+Onion,16,kg,2026-01-23,vegetables,6,682
+Cardamom,50,g,2025-05-12,spices,5,589
+Fish,41,kg,2025-11-03,meat,4,446
+Garam Masala,9,g,2025-05-08,spices,7,265
+Turmeric,17,g,2025-04-16,spices,7,769
+Tomato,43,kg,2025-09-25,vegetables,2,647
+Cheese,12,L,2026-03-04,dairy,9,848
+Ghee,48,L,2025-10-21,oils,8,929
+Milk,23,L,2025-05-26,dairy,10,501
+Mutton,16,kg,2025-11-29,meat,5,775
+Garlic,15,kg,2025-12-14,vegetables,2,260
+Curd,45,L,2025-09-12,dairy,8,122
+Paneer,2,L,2025-07-17,dairy,10,755
+Rice,1,kg,2025-08-02,grains,10,470
+Sugar,41,kg,2025-05-01,grains,7,447
+Green Chilli,47,kg,2025-04-13,vegetables,8,510
+Ghee,12,L,2025-04-15,oils,6,984
+Turmeric,47,g,2025-11-25,spices,8,711
+Chicken,14,kg,2025-09-12,meat,2,261
+Ghee,34,L,2026-01-15,oils,7,564
+Paneer,15,L,2025-11-18,dairy,4,976
+Eggs,28,kg,2025-10-04,meat,10,84
+Sunflower Oil,46,L,2025-06-09,oils,9,140
+Cloves,43,g,2025-10-21,spices,7,493
+Wheat Flour,50,kg,2025-09-19,grains,8,314
+Sunflower Oil,41,L,2025-11-30,oils,7,625
+Coconut Oil,4,L,2025-12-21,oils,7,760
+Lentils,41,kg,2025-04-28,grains,9,521
+Capsicum,41,kg,2025-12-20,vegetables,8,455
+Milk,24,L,2025-10-13,dairy,4,452
+Curd,33,L,2025-08-02,dairy,4,337
+Mustard Oil,5,L,2025-04-19,oils,2,397
+Ghee,27,L,2025-05-13,oils,8,809
+Wheat Flour,21,kg,2026-02-21,grains,2,866
+Red Chili Powder,48,g,2025-12-03,spices,8,654
+Mustard Oil,26,L,2025-04-25,oils,8,346
+Ghee,12,L,2025-05-21,oils,4,847
+Coconut Oil,20,L,2026-02-03,oils,7,440
+Rice,8,kg,2025-08-31,grains,4,819
+Sugar,37,kg,2025-08-17,grains,10,313
+Paneer,8,L,2026-02-28,dairy,5,70
+Paneer,4,L,2026-03-24,dairy,10,495
+Onion,38,kg,2025-06-09,vegetables,3,52
+Coconut Oil,32,L,2025-12-03,oils,5,449
+Carrot,49,kg,2025-12-22,vegetables,3,473
+Cardamom,38,g,2025-09-28,spices,6,612
+Mustard Seeds,20,g,2025-11-18,spices,8,162
+Lentils,48,kg,2026-02-07,grains,7,770
+Cardamom,17,g,2025-04-24,spices,10,271
+Mustard Oil,45,L,2026-02-23,oils,7,365
+Chicken,32,kg,2025-08-05,meat,2,118
+Ghee,1,L,2025-12-10,oils,10,349
+Milk,20,L,2025-12-26,dairy,9,992
+Mutton,21,kg,2025-07-05,meat,10,578
+Rice,6,kg,2025-07-31,grains,3,995
+Green Chilli,13,kg,2025-07-15,vegetables,9,115
+Paneer,37,L,2025-11-26,dairy,2,676
+Fish,5,kg,2025-06-07,meat,6,971
+Green Chilli,5,kg,2025-05-26,vegetables,3,746
+Sugar,34,kg,2025-07-03,grains,7,386
+Turmeric,21,g,2025-04-15,spices,6,583
+Fish,4,kg,2025-10-16,meat,3,539
+Cheese,27,L,2025-06-29,dairy,5,267
+Sugar,30,kg,2025-08-10,grains,4,949
+Butter,11,L,2025-04-27,dairy,7,328
+Onion,27,kg,2025-05-25,vegetables,10,59
+Cardamom,35,g,2025-12-02,spices,8,352
+Coriander,50,kg,2025-04-16,vegetables,4,167
+Ghee,39,L,2026-02-16,oils,7,798
+Carrot,41,kg,2025-09-02,vegetables,8,276
+Red Chili Powder,23,g,2025-10-15,spices,5,745
+Rice,19,kg,2025-06-19,grains,3,462
+Rice,15,kg,2026-02-18,grains,10,626
+Paneer,25,L,2025-08-05,dairy,6,481
+Garam Masala,34,g,2025-05-02,spices,3,429
+Chickpea Flour,10,kg,2025-11-19,grains,3,51
+Sugar,12,kg,2025-05-13,grains,8,428
+Coriander,20,kg,2025-09-30,vegetables,2,549
+Sugar,8,kg,2025-04-10,grains,4,84
+Mustard Seeds,7,g,2025-06-26,spices,3,580
+Wheat Flour,34,kg,2025-09-15,grains,2,555
+Wheat Flour,34,kg,2026-02-08,grains,8,222
+Sugar,16,kg,2025-05-17,grains,10,664
+Sugar,39,kg,2026-03-05,grains,10,395
+Tomato,5,kg,2026-03-28,vegetables,9,886
+Coconut Oil,16,L,2026-01-16,oils,2,163
+Cloves,41,g,2026-03-13,spices,6,149
+Milk,23,L,2026-01-28,dairy,7,745
+Curd,50,L,2025-07-21,dairy,8,817
+Green Chilli,11,kg,2025-06-26,vegetables,10,527
+Ghee,26,L,2026-01-31,dairy,9,593
+Cheese,36,L,2025-05-13,dairy,8,437
+Chickpea Flour,45,kg,2025-09-21,grains,7,642
+Chicken,50,kg,2025-09-24,meat,8,567
+Paneer,31,L,2025-06-15,dairy,9,145
+Ghee,49,L,2025-08-14,dairy,10,850
+Potato,34,kg,2026-02-09,vegetables,8,637
+Eggs,25,kg,2025-07-06,meat,4,640
+Ghee,18,L,2026-03-28,oils,3,532
+Mutton,33,kg,2025-12-06,meat,5,139
+Wheat Flour,10,kg,2025-07-11,grains,9,993
+Curd,10,L,2025-05-14,dairy,4,761
+Wheat Flour,42,kg,2025-06-02,grains,9,261
+Garlic,45,kg,2025-05-22,vegetables,10,736
+Coriander,18,kg,2025-08-20,vegetables,3,825
+Rice,8,kg,2025-11-28,grains,6,512
+Spinach,29,kg,2025-12-12,vegetables,6,840
+Coconut Oil,18,L,2025-10-13,oils,3,439
+Mustard Oil,20,L,2026-02-09,oils,6,807
+Lentils,21,kg,2025-07-30,grains,8,483
+Eggs,32,kg,2025-04-25,meat,8,395
+Capsicum,36,kg,2025-06-16,vegetables,3,535
+Chickpea Flour,5,kg,2025-05-26,grains,10,155
+Coconut Oil,29,L,2025-05-31,oils,6,668
+Sunflower Oil,17,L,2026-03-25,oils,3,252
+Mustard Seeds,8,g,2025-04-28,spices,2,97
+Chicken,26,kg,2025-04-18,meat,10,670
+Garlic,3,kg,2025-06-04,vegetables,6,228
+Cardamom,38,g,2025-10-31,spices,6,116
+Green Chilli,30,kg,2025-08-29,vegetables,5,368
+Coconut Oil,21,L,2025-09-25,oils,3,146
+Onion,45,kg,2025-11-03,vegetables,4,56
+Fish,40,kg,2025-11-23,meat,7,908
+Tomato,6,kg,2025-07-24,vegetables,6,554
+Eggs,13,kg,2025-05-19,meat,10,67
+Rice,27,kg,2025-09-13,grains,6,372
+Onion,41,kg,2025-06-08,vegetables,9,882
+Wheat Flour,45,kg,2025-09-16,grains,4,848
+Mustard Oil,49,L,2025-08-03,oils,4,426
+Spinach,23,kg,2025-09-05,vegetables,4,955
+Mustard Oil,12,L,2026-03-24,oils,4,343
+Sunflower Oil,46,L,2025-04-23,oils,6,681
+Ghee,49,L,2025-06-15,dairy,4,794
+Sunflower Oil,19,L,2025-10-27,oils,10,371
+Paneer,20,L,2026-01-25,dairy,4,642
+Ghee,17,L,2026-03-07,dairy,7,554
+Fish,24,kg,2025-05-16,meat,7,259
+Chicken,30,kg,2025-08-22,meat,9,624
+Ginger,44,kg,2025-06-08,vegetables,6,416
+Spinach,27,kg,2025-07-22,vegetables,6,366
+Eggs,50,kg,2025-05-05,meat,8,543
+Capsicum,33,kg,2025-04-16,vegetables,3,51
+Mustard Oil,6,L,2026-01-16,oils,9,908
+Sunflower Oil,6,L,2025-08-25,oils,2,107
+Rice,35,kg,2025-11-27,grains,10,694
+Green Chilli,10,kg,2026-02-25,vegetables,8,513
+Coriander,3,kg,2025-07-16,vegetables,3,952
+Ghee,20,L,2026-02-26,oils,4,707
+Sunflower Oil,13,L,2026-01-10,oils,3,190
+Capsicum,43,kg,2026-01-19,vegetables,8,656
+Spinach,14,kg,2025-06-25,vegetables,5,111
+Sunflower Oil,14,L,2025-05-24,oils,3,147
+Lentils,34,kg,2026-03-05,grains,2,518
+Coriander Powder,2,g,2025-11-25,spices,9,986
+Cloves,19,g,2025-08-16,spices,2,260
+Cardamom,45,g,2025-11-01,spices,7,876
+Ghee,16,L,2025-08-29,oils,7,812
+Ghee,4,L,2025-08-09,oils,6,721
+Lentils,30,kg,2026-01-03,grains,7,570
+Mustard Oil,23,L,2026-02-17,oils,6,477
+Sugar,25,kg,2025-12-17,grains,10,199
+Mustard Oil,39,L,2025-10-01,oils,10,914
+Sugar,45,kg,2026-01-20,grains,6,82
+Spinach,35,kg,2026-02-20,vegetables,6,653
+Curd,10,L,2025-10-01,dairy,9,650
+Eggs,32,kg,2026-03-16,meat,6,712
+Rice,7,kg,2025-08-18,grains,2,140
+Cloves,7,g,2026-02-16,spices,7,70
+Mutton,38,kg,2026-02-15,meat,4,361
+Garam Masala,45,g,2025-06-25,spices,10,74

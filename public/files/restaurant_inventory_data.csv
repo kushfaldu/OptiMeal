@@ -1,0 +1,201 @@
+Item,Category,Current_Stock,Threshold,Expiration_Days,Usage_Count,Stock_Alert_Color,Expiration_Alert_Color,Reorder_Quantity
+Paneer,Meat,120,47,23,148,Green,Green,0
+Salt,Vegetables,98,16,24,365,Green,Green,0
+Fish,Staples,51,22,2,342,Green,Red,0
+Tomatoes,Meat,103,49,2,268,Green,Red,0
+Turmeric,Staples,59,18,26,170,Green,Green,0
+Paneer,Staples,172,36,28,399,Green,Green,0
+Chicken,Dairy,56,11,17,187,Green,Green,0
+Sugar,Meat,148,14,28,19,Green,Green,0
+Paneer,Meat,17,38,25,270,Red,Green,21
+Fish,Dairy,118,46,18,416,Green,Green,0
+Fish,Vegetables,128,47,18,147,Green,Green,0
+Tomatoes,Staples,110,28,20,181,Green,Green,0
+Turmeric,Condiments,162,17,4,395,Green,Red,0
+Salt,Staples,151,10,17,22,Green,Green,0
+Tomatoes,Staples,149,31,27,177,Green,Green,0
+Tomatoes,Vegetables,124,26,9,139,Green,Orange,0
+Sugar,Staples,67,16,28,93,Green,Green,0
+Milk,Dairy,23,34,21,330,Orange,Green,11
+Turmeric,Dairy,96,13,20,328,Green,Green,0
+Wheat Flour,Meat,62,45,5,110,Green,Red,0
+Tomatoes,Condiments,187,15,0,338,Green,Red,0
+Spices Mix,Staples,94,40,4,282,Green,Red,0
+Milk,Staples,121,28,8,274,Green,Orange,0
+Wheat Flour,Vegetables,66,48,11,468,Green,Green,0
+Spices Mix,Dairy,27,36,25,408,Orange,Green,9
+Turmeric,Condiments,131,19,13,417,Green,Green,0
+Rice,Meat,141,35,1,47,Green,Red,0
+Spices Mix,Dairy,144,28,16,428,Green,Green,0
+Chicken,Meat,133,48,13,103,Green,Green,0
+Milk,Vegetables,62,12,25,104,Green,Green,0
+Spices Mix,Vegetables,126,22,12,314,Green,Green,0
+Onions,Staples,5,37,26,78,Red,Green,32
+Rice,Condiments,38,29,8,327,Green,Orange,0
+Fish,Meat,100,37,25,453,Green,Green,0
+Fish,Dairy,130,17,24,245,Green,Green,0
+Chicken,Vegetables,122,48,14,443,Green,Green,0
+Spices Mix,Staples,52,10,24,343,Green,Green,0
+Spices Mix,Staples,93,12,21,382,Green,Green,0
+Sugar,Meat,121,22,14,385,Green,Green,0
+Spices Mix,Vegetables,133,37,23,468,Green,Green,0
+Paneer,Condiments,20,34,29,146,Orange,Green,14
+Salt,Vegetables,193,42,10,427,Green,Orange,0
+Onions,Meat,196,47,15,85,Green,Green,0
+Sugar,Meat,195,15,28,492,Green,Green,0
+Turmeric,Vegetables,73,41,16,44,Green,Green,0
+Sugar,Meat,26,30,25,10,Orange,Green,4
+Paneer,Vegetables,97,25,3,305,Green,Red,0
+Turmeric,Dairy,199,30,0,329,Green,Red,0
+Onions,Vegetables,80,20,7,415,Green,Orange,0
+Paneer,Vegetables,158,46,16,69,Green,Green,0
+Wheat Flour,Meat,148,45,2,329,Green,Red,0
+Salt,Meat,183,44,28,358,Green,Green,0
+Onions,Staples,90,28,19,337,Green,Green,0
+Spices Mix,Staples,189,29,14,276,Green,Green,0
+Wheat Flour,Dairy,33,27,14,370,Green,Green,0
+Chicken,Staples,73,23,23,238,Green,Green,0
+Onions,Vegetables,51,24,21,279,Green,Green,0
+Chicken,Meat,98,40,13,325,Green,Green,0
+Turmeric,Staples,194,10,25,295,Green,Green,0
+Wheat Flour,Staples,148,12,27,300,Green,Green,0
+Salt,Dairy,180,25,22,222,Green,Green,0
+Spices Mix,Dairy,89,32,13,174,Green,Green,0
+Spices Mix,Vegetables,43,20,23,14,Green,Green,0
+Paneer,Meat,104,21,1,348,Green,Red,0
+Spices Mix,Dairy,37,19,12,388,Green,Green,0
+Tomatoes,Staples,105,41,25,87,Green,Green,0
+Sugar,Meat,27,25,13,419,Green,Green,0
+Rice,Meat,14,17,26,71,Orange,Green,3
+Salt,Staples,73,47,23,141,Green,Green,0
+Wheat Flour,Dairy,104,21,18,98,Green,Green,0
+Tomatoes,Staples,38,33,6,246,Green,Orange,0
+Salt,Meat,184,37,2,51,Green,Red,0
+Wheat Flour,Condiments,142,17,14,98,Green,Green,0
+Milk,Condiments,151,37,22,411,Green,Green,0
+Milk,Vegetables,190,45,13,305,Green,Green,0
+Chicken,Staples,100,35,10,337,Green,Orange,0
+Salt,Staples,5,17,14,304,Red,Green,12
+Milk,Vegetables,73,37,27,113,Green,Green,0
+Wheat Flour,Vegetables,8,37,12,23,Red,Green,29
+Chicken,Vegetables,20,46,17,297,Red,Green,26
+Spices Mix,Meat,28,45,25,188,Orange,Green,17
+Wheat Flour,Staples,84,36,5,134,Green,Red,0
+Chicken,Meat,6,26,2,431,Red,Red,20
+Salt,Vegetables,132,18,18,362,Green,Green,0
+Tomatoes,Staples,164,42,14,32,Green,Green,0
+Paneer,Meat,88,29,24,72,Green,Green,0
+Spices Mix,Meat,156,22,22,152,Green,Green,0
+Onions,Vegetables,144,37,4,490,Green,Red,0
+Tomatoes,Staples,182,38,27,162,Green,Green,0
+Turmeric,Vegetables,167,22,9,154,Green,Orange,0
+Wheat Flour,Staples,128,44,6,234,Green,Orange,0
+Turmeric,Condiments,37,15,24,459,Green,Green,0
+Tomatoes,Dairy,165,27,16,471,Green,Green,0
+Chicken,Dairy,193,14,6,318,Green,Orange,0
+Onions,Dairy,183,34,21,113,Green,Green,0
+Spices Mix,Vegetables,175,11,25,113,Green,Green,0
+Spices Mix,Condiments,105,19,29,444,Green,Green,0
+Spices Mix,Staples,16,39,11,48,Red,Green,23
+Onions,Meat,71,14,24,444,Green,Green,0
+Rice,Staples,69,42,16,207,Green,Green,0
+Onions,Meat,165,10,12,143,Green,Green,0
+Paneer,Staples,172,27,19,76,Green,Green,0
+Onions,Condiments,78,41,24,400,Green,Green,0
+Tomatoes,Meat,47,20,3,188,Green,Red,0
+Rice,Vegetables,48,30,9,465,Green,Orange,0
+Spices Mix,Staples,33,35,2,51,Orange,Red,2
+Tomatoes,Staples,145,34,8,457,Green,Orange,0
+Tomatoes,Meat,16,31,12,24,Orange,Green,15
+Fish,Vegetables,99,36,17,120,Green,Green,0
+Sugar,Vegetables,50,22,14,166,Green,Green,0
+Rice,Condiments,134,42,3,298,Green,Red,0
+Tomatoes,Vegetables,39,43,14,487,Orange,Green,4
+Sugar,Vegetables,85,44,21,240,Green,Green,0
+Sugar,Vegetables,94,10,1,420,Green,Red,0
+Rice,Dairy,12,30,14,429,Red,Green,18
+Fish,Condiments,97,15,7,166,Green,Orange,0
+Turmeric,Staples,158,37,7,47,Green,Orange,0
+Chicken,Meat,94,26,16,450,Green,Green,0
+Paneer,Staples,166,14,11,106,Green,Green,0
+Chicken,Condiments,119,40,18,494,Green,Green,0
+Onions,Meat,109,14,9,420,Green,Orange,0
+Spices Mix,Condiments,139,47,8,448,Green,Orange,0
+Paneer,Vegetables,62,12,4,298,Green,Red,0
+Onions,Meat,118,32,5,263,Green,Red,0
+Tomatoes,Vegetables,79,46,19,205,Green,Green,0
+Spices Mix,Staples,161,46,25,95,Green,Green,0
+Wheat Flour,Staples,124,19,1,331,Green,Red,0
+Rice,Meat,168,19,26,19,Green,Green,0
+Paneer,Meat,25,28,23,14,Orange,Green,3
+Paneer,Condiments,168,26,26,132,Green,Green,0
+Tomatoes,Condiments,142,30,12,339,Green,Green,0
+Turmeric,Vegetables,105,23,5,362,Green,Red,0
+Sugar,Meat,156,18,4,127,Green,Red,0
+Spices Mix,Staples,196,10,24,303,Green,Green,0
+Tomatoes,Condiments,181,22,0,406,Green,Red,0
+Milk,Condiments,103,13,20,168,Green,Green,0
+Fish,Staples,40,10,21,312,Green,Green,0
+Sugar,Condiments,100,49,20,237,Green,Green,0
+Rice,Vegetables,156,41,5,374,Green,Red,0
+Sugar,Meat,155,43,5,225,Green,Red,0
+Turmeric,Staples,194,37,22,445,Green,Green,0
+Sugar,Meat,41,40,15,193,Green,Green,0
+Rice,Condiments,16,17,3,24,Orange,Red,1
+Turmeric,Condiments,117,48,29,166,Green,Green,0
+Chicken,Staples,187,35,10,145,Green,Orange,0
+Paneer,Vegetables,17,43,29,270,Red,Green,26
+Paneer,Dairy,27,12,29,166,Green,Green,0
+Fish,Staples,103,21,29,56,Green,Green,0
+Onions,Dairy,109,10,23,333,Green,Green,0
+Chicken,Dairy,34,14,22,341,Green,Green,0
+Chicken,Vegetables,21,39,8,182,Orange,Orange,18
+Spices Mix,Dairy,117,39,22,139,Green,Green,0
+Sugar,Dairy,66,26,2,420,Green,Red,0
+Paneer,Vegetables,88,32,18,104,Green,Green,0
+Rice,Dairy,116,24,7,124,Green,Orange,0
+Salt,Dairy,90,46,4,252,Green,Red,0
+Salt,Dairy,145,30,3,429,Green,Red,0
+Turmeric,Staples,191,23,23,301,Green,Green,0
+Paneer,Staples,23,11,5,291,Green,Red,0
+Paneer,Staples,181,20,1,308,Green,Red,0
+Fish,Vegetables,104,48,19,292,Green,Green,0
+Salt,Condiments,144,47,27,78,Green,Green,0
+Paneer,Dairy,193,43,10,157,Green,Orange,0
+Fish,Dairy,151,47,3,20,Green,Red,0
+Sugar,Vegetables,80,43,14,263,Green,Green,0
+Milk,Dairy,13,27,5,339,Red,Red,14
+Spices Mix,Staples,32,39,21,369,Orange,Green,7
+Wheat Flour,Condiments,132,24,16,47,Green,Green,0
+Chicken,Meat,56,36,29,143,Green,Green,0
+Onions,Dairy,87,43,23,209,Green,Green,0
+Turmeric,Staples,115,47,5,32,Green,Red,0
+Milk,Meat,148,42,18,312,Green,Green,0
+Spices Mix,Condiments,121,33,29,355,Green,Green,0
+Spices Mix,Meat,73,24,24,311,Green,Green,0
+Spices Mix,Staples,103,39,1,372,Green,Red,0
+Spices Mix,Meat,144,26,14,405,Green,Green,0
+Salt,Vegetables,29,14,10,227,Green,Orange,0
+Fish,Meat,184,38,7,150,Green,Orange,0
+Chicken,Dairy,127,13,25,113,Green,Green,0
+Paneer,Dairy,57,19,18,455,Green,Green,0
+Spices Mix,Vegetables,155,26,12,219,Green,Green,0
+Onions,Staples,148,19,11,482,Green,Green,0
+Paneer,Dairy,61,26,4,490,Green,Red,0
+Rice,Condiments,43,29,5,120,Green,Red,0
+Rice,Dairy,113,33,25,113,Green,Green,0
+Onions,Dairy,185,14,21,325,Green,Green,0
+Fish,Staples,46,43,3,180,Green,Red,0
+Onions,Meat,190,15,18,469,Green,Green,0
+Salt,Dairy,171,11,19,365,Green,Green,0
+Onions,Vegetables,146,22,0,333,Green,Red,0
+Sugar,Meat,126,20,19,142,Green,Green,0
+Paneer,Condiments,137,32,16,385,Green,Green,0
+Milk,Staples,167,25,11,302,Green,Green,0
+Tomatoes,Condiments,79,40,14,337,Green,Green,0
+Fish,Meat,150,20,0,136,Green,Red,0
+Onions,Meat,80,25,25,115,Green,Green,0
+Turmeric,Meat,13,17,13,101,Orange,Green,4
+Rice,Condiments,78,13,5,296,Green,Red,0
+Sugar,Meat,190,49,4,387,Green,Red,0
+Chicken,Condiments,149,13,29,402,Green,Green,0

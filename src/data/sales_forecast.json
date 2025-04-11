@@ -1,0 +1,50 @@
+{
+  "predictedRevenue": "₹45,000",
+  "trend": "up",
+  "trendPercentage": "12%",
+  "peakHours": ["12:00-14:00", "19:00-21:00"],
+  "dailyPredictions": [
+    {
+      "day": "Monday",
+      "revenue": "₹5,500",
+      "confidence": "85%"
+    },
+    {
+      "day": "Tuesday",
+      "revenue": "₹5,800",
+      "confidence": "82%"
+    },
+    {
+      "day": "Wednesday",
+      "revenue": "₹6,200",
+      "confidence": "88%"
+    },
+    {
+      "day": "Thursday",
+      "revenue": "₹6,500",
+      "confidence": "86%"
+    },
+    {
+      "day": "Friday",
+      "revenue": "₹7,200",
+      "confidence": "90%"
+    },
+    {
+      "day": "Saturday",
+      "revenue": "₹7,800",
+      "confidence": "92%"
+    },
+    {
+      "day": "Sunday",
+      "revenue": "₹6,000",
+      "confidence": "84%"
+    }
+  ],
+  "recommendations": [
+    "Increase staffing during peak hours (12-2 PM and 7-9 PM)",
+    "Prepare additional inventory for weekend rush",
+    "Consider special promotions for slower Monday periods",
+    "Optimize menu items based on Friday-Saturday preferences"
+  ],
+  "analysis": "Sales show a strong upward trend with 12% growth. Weekend peaks indicate need for increased staffing and inventory preparation."
+} 

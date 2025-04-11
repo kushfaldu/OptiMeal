@@ -1,0 +1,176 @@
+{
+  "salesInsight": {
+    "data": {
+      "predictedRevenue": "\u00e2\u201a\u00b945,000",
+      "trend": "up",
+      "trendPercentage": "12%",
+      "peakHours": [
+        "12:00-14:00",
+        "19:00-21:00"
+      ],
+      "dailyPredictions": [
+        {
+          "day": "Monday",
+          "revenue": "\u00e2\u201a\u00b95,500",
+          "confidence": "85%"
+        },
+        {
+          "day": "Tuesday",
+          "revenue": "\u00e2\u201a\u00b95,800",
+          "confidence": "82%"
+        },
+        {
+          "day": "Wednesday",
+          "revenue": "\u00e2\u201a\u00b96,200",
+          "confidence": "88%"
+        },
+        {
+          "day": "Thursday",
+          "revenue": "\u00e2\u201a\u00b96,500",
+          "confidence": "86%"
+        },
+        {
+          "day": "Friday",
+          "revenue": "\u00e2\u201a\u00b97,200",
+          "confidence": "90%"
+        },
+        {
+          "day": "Saturday",
+          "revenue": "\u00e2\u201a\u00b97,800",
+          "confidence": "87%"
+        },
+        {
+          "day": "Sunday",
+          "revenue": "\u00e2\u201a\u00b96,000",
+          "confidence": "84%"
+        }
+      ],
+      "recommendations": [
+        "Increase staff during peak hours (12-2 PM and 7-9 PM)",
+        "Prepare additional inventory for weekend rush",
+        "Focus on high-margin items during peak hours",
+        "Consider special weekday promotions to boost slower periods"
+      ],
+      "analysis": "Sales show a strong upward trend with 12% growth. Weekend peaks indicate need for increased staffing and inventory preparation."
+    },
+    "analysis": "Sales show a strong upward trend with notable weekend peaks. Recommend staffing adjustments and inventory preparation for peak hours."
+  },
+  "wasteInsight": {
+    "data": {
+      "totalWasteCost": "\u00e2\u201a\u00b92,500",
+      "trend": "down",
+      "trendPercentage": "8%",
+      "highRiskItems": [
+        {
+          "name": "Fresh Vegetables",
+          "expiryDays": 2,
+          "quantity": "5 kg",
+          "potentialLoss": "\u00e2\u201a\u00b9600"
+        },
+        {
+          "name": "Chicken",
+          "expiryDays": 1,
+          "quantity": "3 kg",
+          "potentialLoss": "\u00e2\u201a\u00b9450"
+        },
+        {
+          "name": "Milk",
+          "expiryDays": 3,
+          "quantity": "4 L",
+          "potentialLoss": "\u00e2\u201a\u00b9200"
+        }
+      ],
+      "wasteByCategory": [
+        {
+          "category": "Vegetables",
+          "amount": "\u00e2\u201a\u00b9800",
+          "percentage": "32%"
+        },
+        {
+          "category": "Meat",
+          "amount": "\u00e2\u201a\u00b91,000",
+          "percentage": "40%"
+        },
+        {
+          "category": "Dairy",
+          "amount": "\u00e2\u201a\u00b9400",
+          "percentage": "16%"
+        },
+        {
+          "category": "Grains",
+          "amount": "\u00e2\u201a\u00b9300",
+          "percentage": "12%"
+        }
+      ],
+      "recommendations": [
+        "Use FIFO method for vegetable storage",
+        "Adjust meat order quantities based on weekday demand",
+        "Monitor dairy product temperatures closely",
+        "Implement daily stock checks for high-risk items"
+      ],
+      "analysis": "Waste costs are trending down with an 8% reduction. Immediate attention needed for perishables expiring within 48 hours."
+    },
+    "analysis": "Waste costs are trending down with meat category showing highest loss. Immediate attention needed for perishables expiring within 48 hours."
+  },
+  "inventoryInsight": {
+    "data": {
+      "efficiencyScore": "85%",
+      "trend": "up",
+      "trendPercentage": "3.7%",
+      "stockLevels": [
+        {
+          "category": "Raw Materials",
+          "currentLevel": "45%",
+          "status": "low",
+          "value": "\u00e2\u201a\u00b912,000"
+        },
+        {
+          "category": "Spices",
+          "currentLevel": "75%",
+          "status": "optimal",
+          "value": "\u00e2\u201a\u00b98,000"
+        },
+        {
+          "category": "Beverages",
+          "currentLevel": "60%",
+          "status": "optimal",
+          "value": "\u00e2\u201a\u00b96,000"
+        },
+        {
+          "category": "Packaging",
+          "currentLevel": "85%",
+          "status": "high",
+          "value": "\u00e2\u201a\u00b94,000"
+        }
+      ],
+      "reorderSuggestions": [
+        {
+          "item": "Basmati Rice",
+          "currentStock": "5 kg",
+          "suggestedOrder": "25 kg",
+          "urgency": "high"
+        },
+        {
+          "item": "Cooking Oil",
+          "currentStock": "10 L",
+          "suggestedOrder": "20 L",
+          "urgency": "medium"
+        },
+        {
+          "item": "Tomatoes",
+          "currentStock": "3 kg",
+          "suggestedOrder": "10 kg",
+          "urgency": "high"
+        }
+      ],
+      "recommendations": [
+        "Implement automatic reordering for high-turnover items",
+        "Review storage conditions for perishables",
+        "Optimize order quantities based on usage patterns",
+        "Consider bulk purchasing for frequently used items"
+      ],
+      "analysis": "Inventory efficiency has improved by 3.7%. Critical reorder needed for rice and tomatoes. Consider implementing automated reordering system."
+    },
+    "analysis": "Inventory efficiency is improving with some critical items needing attention. Recommend implementing automated reordering for high-turnover items."
+  }
+}

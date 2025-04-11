@@ -1,0 +1,58 @@
+{
+  "efficiencyScore": "85%",
+  "trend": "up",
+  "trendPercentage": "3.7%",
+  "stockLevels": [
+    {
+      "category": "Raw Materials",
+      "currentLevel": "45%",
+      "status": "low",
+      "value": "₹12,000"
+    },
+    {
+      "category": "Spices",
+      "currentLevel": "75%",
+      "status": "optimal",
+      "value": "₹8,000"
+    },
+    {
+      "category": "Beverages",
+      "currentLevel": "60%",
+      "status": "optimal",
+      "value": "₹6,000"
+    },
+    {
+      "category": "Packaging",
+      "currentLevel": "85%",
+      "status": "high",
+      "value": "₹4,000"
+    }
+  ],
+  "reorderSuggestions": [
+    {
+      "item": "Basmati Rice",
+      "currentStock": "5 kg",
+      "suggestedOrder": "25 kg",
+      "urgency": "high"
+    },
+    {
+      "item": "Cooking Oil",
+      "currentStock": "10 L",
+      "suggestedOrder": "20 L",
+      "urgency": "medium"
+    },
+    {
+      "item": "Tomatoes",
+      "currentStock": "3 kg",
+      "suggestedOrder": "10 kg",
+      "urgency": "high"
+    }
+  ],
+  "recommendations": [
+    "Implement automatic reordering for high-turnover items",
+    "Review storage conditions for perishables",
+    "Optimize order quantities based on usage patterns",
+    "Consider bulk purchasing for frequently used items"
+  ],
+  "analysis": "Inventory efficiency has improved by 3.7%. Critical reorder needed for rice and tomatoes. Consider implementing automated reordering system."
+} 

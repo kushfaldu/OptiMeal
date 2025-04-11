@@ -1,0 +1,234 @@
+waste_id,date,item_id,item_name,quantity,unit,reason,cost,category,disposal_method,responsible_staff,location
+W8bc02550,2024-12-30,INV003,Milk,4.8,L,damaged,16.8,dairy,trash,Mike Johnson,display
+W52efdf5b,2024-12-30,INV002,Chicken Breast,2.2,kg,returned_by_customer,33.0,meat,recycled,Chris Wilson,storage
+W4649204c,2024-12-30,INV002,Chicken Breast,1.9,kg,returned_by_customer,28.5,meat,trash,Emily Davis,receiving
+W9d09a4c6,2024-12-31,INV009,Eggs,2.9,dozen,spoiled,13.05,dairy,donated,Sarah Williams,kitchen
+Weeabc732,2025-01-01,INV005,Lettuce,4.7,kg,expired,18.8,produce,trash,David Brown,receiving
+W1337d81f,2025-01-01,INV005,Lettuce,7.3,kg,damaged,29.2,produce,compost,Emily Davis,prep area
+W6c936a48,2025-01-01,INV005,Lettuce,4.8,kg,expired,19.2,produce,compost,John Smith,storage
+Wfc4474a4,2025-01-02,INV003,Milk,1.7,L,returned_by_customer,5.95,dairy,trash,Emily Davis,kitchen
+W9b4f4e6f,2025-01-02,INV008,Rice,1.8,kg,quality_issues,3.6,dry goods,trash,Jane Doe,receiving
+W91648d38,2025-01-02,INV009,Eggs,1.2,dozen,returned_by_customer,5.4,dairy,recycled,Mike Johnson,prep area
+W7e0a65cb,2025-01-03,INV002,Chicken Breast,0.3,kg,damaged,4.5,meat,donated,Chris Wilson,receiving
+Waec3db99,2025-01-04,INV010,Carrots,3.4,kg,quality_issues,10.2,produce,compost,Emily Davis,storage
+W2bc27f0d,2025-01-04,INV008,Rice,2.4,kg,overproduction,4.8,dry goods,donated,John Smith,receiving
+Wa6806c76,2025-01-05,INV008,Rice,1.8,kg,spoiled,3.6,dry goods,compost,Sarah Williams,storage
+Wb484d207,2025-01-05,INV001,Tomatoes,0.8,kg,storage_error,4.0,produce,compost,Emily Davis,kitchen
+W32f0bcb1,2025-01-05,INV008,Rice,1.4,kg,expired,2.8,dry goods,recycled,Lisa Anderson,prep area
+Wf8067b57,2025-01-05,INV006,Cheese,3.7,kg,overproduction,44.4,dairy,recycled,Chris Wilson,display
+Wf8931a64,2025-01-06,INV003,Milk,4.1,L,quality_issues,14.35,dairy,trash,Mike Johnson,display
+Wf921019b,2025-01-06,INV009,Eggs,3.2,dozen,quality_issues,14.4,dairy,compost,David Brown,receiving
+W2c702471,2025-01-07,INV008,Rice,4.7,kg,storage_error,9.4,dry goods,donated,Jane Doe,receiving
+W0035955f,2025-01-07,INV009,Eggs,3.4,dozen,overproduction,15.3,dairy,compost,Sarah Williams,display
+Wfce092e8,2025-01-07,INV005,Lettuce,6.9,kg,damaged,27.6,produce,donated,Emily Davis,receiving
+Waa76c3b6,2025-01-08,INV006,Cheese,0.9,kg,damaged,10.8,dairy,recycled,Mike Johnson,storage
+W912d22f1,2025-01-08,INV001,Tomatoes,6.5,kg,damaged,32.5,produce,donated,Emily Davis,prep area
+Wcd166f80,2025-01-08,INV003,Milk,2.5,L,overproduction,8.75,dairy,donated,Emily Davis,prep area
+W211c3a19,2025-01-09,INV006,Cheese,3.5,kg,returned_by_customer,42.0,dairy,trash,Jane Doe,display
+W80589d3e,2025-01-09,INV005,Lettuce,5.2,kg,storage_error,20.8,produce,recycled,Emily Davis,storage
+W35ea52df,2025-01-09,INV003,Milk,2.2,L,preparation_waste,7.7,dairy,recycled,Jane Doe,kitchen
+Weadd96fa,2025-01-10,INV004,Bread,4.7,units,spoiled,11.75,bakery,compost,Sarah Williams,receiving
+W24a7696f,2025-01-10,INV006,Cheese,1.7,kg,storage_error,20.4,dairy,donated,Emily Davis,kitchen
+Wc3b1c176,2025-01-10,INV002,Chicken Breast,1.5,kg,expired,22.5,meat,compost,Jane Doe,kitchen
+W9ccaac28,2025-01-11,INV005,Lettuce,3.3,kg,returned_by_customer,13.2,produce,trash,Mike Johnson,receiving
+Wb96e677f,2025-01-11,INV004,Bread,7.3,units,returned_by_customer,18.25,bakery,trash,John Smith,kitchen
+W13be8a3c,2025-01-11,INV003,Milk,4.3,L,storage_error,15.05,dairy,recycled,David Brown,storage
+Wa9425fdd,2025-01-11,INV003,Milk,3.7,L,spoiled,12.95,dairy,compost,Jane Doe,display
+Wa85e74b6,2025-01-11,INV004,Bread,2.3,units,overproduction,5.75,bakery,recycled,Sarah Williams,display
+W2cf7df4d,2025-01-12,INV001,Tomatoes,2.5,kg,expired,12.5,produce,trash,Emily Davis,kitchen
+Wa5a876ab,2025-01-12,INV009,Eggs,0.7,dozen,damaged,3.15,dairy,donated,Jane Doe,kitchen
+Wd5fcbea0,2025-01-13,INV006,Cheese,2.5,kg,damaged,30.0,dairy,donated,Lisa Anderson,display
+W01dbab4a,2025-01-13,INV008,Rice,3.7,kg,overproduction,7.4,dry goods,trash,Chris Wilson,kitchen
+W109a99c1,2025-01-13,INV001,Tomatoes,1.5,kg,storage_error,7.5,produce,recycled,Jane Doe,prep area
+W491cac9e,2025-01-14,INV003,Milk,4.5,L,quality_issues,15.75,dairy,donated,Jane Doe,receiving
+W93727229,2025-01-14,INV007,Fish,0.7,kg,storage_error,14.0,seafood,donated,Chris Wilson,receiving
+Wa3c6d228,2025-01-15,INV008,Rice,2.6,kg,storage_error,5.2,dry goods,compost,Jane Doe,kitchen
+Wd7b11e21,2025-01-16,INV008,Rice,3.0,kg,overproduction,6.0,dry goods,trash,Emily Davis,receiving
+W5a20ab5d,2025-01-16,INV010,Carrots,5.4,kg,preparation_waste,16.2,produce,trash,Lisa Anderson,prep area
+W9b9a8b33,2025-01-17,INV002,Chicken Breast,0.6,kg,quality_issues,9.0,meat,recycled,Jane Doe,storage
+W7a8d0176,2025-01-17,INV008,Rice,3.2,kg,overproduction,6.4,dry goods,compost,Jane Doe,kitchen
+W58bdc337,2025-01-18,INV002,Chicken Breast,1.5,kg,expired,22.5,meat,recycled,Jane Doe,kitchen
+W95dfffa5,2025-01-18,INV002,Chicken Breast,0.7,kg,returned_by_customer,10.5,meat,compost,Sarah Williams,prep area
+Wa17dd35a,2025-01-18,INV006,Cheese,4.7,kg,preparation_waste,56.4,dairy,donated,John Smith,receiving
+Wc7c84a47,2025-01-19,INV009,Eggs,3.2,dozen,returned_by_customer,14.4,dairy,recycled,David Brown,storage
+Wd89a11f8,2025-01-19,INV003,Milk,3.6,L,expired,12.6,dairy,compost,Sarah Williams,receiving
+W48faff67,2025-01-19,INV008,Rice,4.5,kg,quality_issues,9.0,dry goods,trash,Jane Doe,kitchen
+Wad3d5361,2025-01-20,INV001,Tomatoes,5.0,kg,preparation_waste,25.0,produce,recycled,Mike Johnson,receiving
+W74a85ec5,2025-01-21,INV006,Cheese,1.8,kg,expired,21.6,dairy,donated,Lisa Anderson,display
+W9e8dc07c,2025-01-22,INV006,Cheese,2.6,kg,overproduction,31.2,dairy,compost,Chris Wilson,display
+W0397140c,2025-01-22,INV006,Cheese,1.0,kg,storage_error,12.0,dairy,recycled,Mike Johnson,display
+W91893f38,2025-01-23,INV002,Chicken Breast,0.7,kg,expired,10.5,meat,donated,David Brown,receiving
+W05875c73,2025-01-23,INV009,Eggs,2.4,dozen,spoiled,10.8,dairy,trash,Lisa Anderson,prep area
+W5f08c138,2025-01-24,INV004,Bread,6.7,units,overproduction,16.75,bakery,compost,Sarah Williams,prep area
+W9f4965c0,2025-01-25,INV006,Cheese,2.0,kg,expired,24.0,dairy,recycled,Lisa Anderson,prep area
+Wabeaf2b3,2025-01-25,INV004,Bread,1.6,units,returned_by_customer,4.0,bakery,compost,Emily Davis,storage
+Wcf9c8989,2025-01-25,INV001,Tomatoes,3.2,kg,returned_by_customer,16.0,produce,trash,Jane Doe,prep area
+W64a83f01,2025-01-25,INV005,Lettuce,6.9,kg,storage_error,27.6,produce,donated,David Brown,storage
+W148b1d4d,2025-01-25,INV006,Cheese,1.7,kg,returned_by_customer,20.4,dairy,compost,Emily Davis,storage
+W5eba477b,2025-01-26,INV004,Bread,5.1,units,storage_error,12.75,bakery,donated,Sarah Williams,prep area
+W01a525c1,2025-01-26,INV009,Eggs,0.5,dozen,quality_issues,2.25,dairy,trash,Mike Johnson,kitchen
+W91a5dc7f,2025-01-27,INV003,Milk,2.1,L,damaged,7.35,dairy,recycled,John Smith,prep area
+Wa9c2f75c,2025-01-28,INV009,Eggs,1.2,dozen,returned_by_customer,5.4,dairy,compost,John Smith,kitchen
+W62cd0ff4,2025-01-28,INV002,Chicken Breast,0.9,kg,overproduction,13.5,meat,trash,Emily Davis,display
+W65c15f1c,2025-01-28,INV004,Bread,4.4,units,returned_by_customer,11.0,bakery,trash,David Brown,kitchen
+Wada3215f,2025-01-29,INV008,Rice,1.7,kg,spoiled,3.4,dry goods,donated,Emily Davis,prep area
+We7e516b4,2025-01-29,INV003,Milk,2.7,L,preparation_waste,9.45,dairy,trash,John Smith,prep area
+Wd4a77ce3,2025-01-29,INV009,Eggs,3.6,dozen,overproduction,16.2,dairy,recycled,Chris Wilson,display
+Wfd97d9b6,2025-01-30,INV001,Tomatoes,2.4,kg,spoiled,12.0,produce,compost,Mike Johnson,storage
+W95a31eda,2025-01-30,INV001,Tomatoes,1.9,kg,overproduction,9.5,produce,compost,David Brown,receiving
+W43079404,2025-01-30,INV009,Eggs,1.5,dozen,storage_error,6.75,dairy,compost,Mike Johnson,display
+W6725d7fd,2025-01-31,INV006,Cheese,3.0,kg,quality_issues,36.0,dairy,donated,David Brown,display
+W5e071442,2025-01-31,INV009,Eggs,2.3,dozen,preparation_waste,10.35,dairy,recycled,Jane Doe,receiving
+W1f8ba0b4,2025-02-01,INV010,Carrots,5.5,kg,damaged,16.5,produce,compost,Lisa Anderson,storage
+Wecd2d0f4,2025-02-01,INV001,Tomatoes,1.2,kg,spoiled,6.0,produce,recycled,Lisa Anderson,kitchen
+Wdbd93ad4,2025-02-01,INV008,Rice,1.6,kg,spoiled,3.2,dry goods,recycled,Lisa Anderson,kitchen
+Wafbbb57d,2025-02-01,INV003,Milk,1.6,L,expired,5.6,dairy,donated,Mike Johnson,receiving
+Wf2aae4a8,2025-02-01,INV009,Eggs,3.7,dozen,returned_by_customer,16.65,dairy,trash,Jane Doe,kitchen
+W3dac5b7e,2025-02-02,INV004,Bread,7.5,units,spoiled,18.75,bakery,trash,Jane Doe,display
+Wdcc27952,2025-02-02,INV009,Eggs,2.3,dozen,overproduction,10.35,dairy,trash,Sarah Williams,kitchen
+Wf19108a1,2025-02-02,INV009,Eggs,4.9,dozen,quality_issues,22.05,dairy,trash,Sarah Williams,display
+W896e912c,2025-02-02,INV010,Carrots,1.7,kg,storage_error,5.1,produce,recycled,Mike Johnson,kitchen
+W60c39b7f,2025-02-02,INV003,Milk,1.7,L,damaged,5.95,dairy,recycled,Mike Johnson,prep area
+W66680344,2025-02-03,INV010,Carrots,1.0,kg,returned_by_customer,3.0,produce,compost,Sarah Williams,storage
+Wd518dfbb,2025-02-03,INV008,Rice,2.1,kg,returned_by_customer,4.2,dry goods,recycled,John Smith,display
+Wbcc38d67,2025-02-03,INV002,Chicken Breast,1.7,kg,damaged,25.5,meat,trash,John Smith,display
+W93ebfc7e,2025-02-04,INV001,Tomatoes,5.3,kg,overproduction,26.5,produce,donated,Emily Davis,storage
+Wdbedcd44,2025-02-04,INV010,Carrots,4.3,kg,overproduction,12.9,produce,compost,David Brown,storage
+W7ca9aa48,2025-02-05,INV008,Rice,2.5,kg,expired,5.0,dry goods,trash,David Brown,display
+Wf4debc35,2025-02-05,INV005,Lettuce,4.5,kg,quality_issues,18.0,produce,compost,John Smith,receiving
+W4392ab2b,2025-02-06,INV005,Lettuce,3.2,kg,quality_issues,12.8,produce,trash,Mike Johnson,kitchen
+Wc3f89d66,2025-02-06,INV010,Carrots,4.8,kg,quality_issues,14.4,produce,donated,Emily Davis,kitchen
+Wd1429609,2025-02-06,INV004,Bread,1.3,units,expired,3.25,bakery,compost,John Smith,storage
+Wdae2c1ba,2025-02-07,INV006,Cheese,4.1,kg,quality_issues,49.2,dairy,donated,Sarah Williams,prep area
+Wde2703f9,2025-02-07,INV008,Rice,1.6,kg,quality_issues,3.2,dry goods,donated,Emily Davis,prep area
+W7487d85e,2025-02-08,INV008,Rice,2.6,kg,preparation_waste,5.2,dry goods,recycled,Jane Doe,storage
+Wf22f191a,2025-02-08,INV003,Milk,4.9,L,preparation_waste,17.15,dairy,recycled,John Smith,receiving
+W734d40e8,2025-02-08,INV003,Milk,2.3,L,damaged,8.05,dairy,donated,Sarah Williams,prep area
+W1a99f42a,2025-02-08,INV006,Cheese,4.2,kg,damaged,50.4,dairy,trash,Chris Wilson,display
+Wb8dd7a69,2025-02-09,INV003,Milk,3.6,L,storage_error,12.6,dairy,compost,Emily Davis,storage
+W8075c348,2025-02-09,INV003,Milk,4.1,L,returned_by_customer,14.35,dairy,compost,Lisa Anderson,storage
+We92db7f4,2025-02-09,INV001,Tomatoes,1.8,kg,storage_error,9.0,produce,trash,Chris Wilson,storage
+Wf17aaccc,2025-02-09,INV010,Carrots,4.2,kg,damaged,12.6,produce,donated,David Brown,receiving
+W7658d0db,2025-02-09,INV007,Fish,2.2,kg,preparation_waste,44.0,seafood,compost,Sarah Williams,receiving
+Wd6849e31,2025-02-10,INV008,Rice,1.5,kg,damaged,3.0,dry goods,compost,Sarah Williams,receiving
+W84c58def,2025-02-10,INV004,Bread,3.0,units,quality_issues,7.5,bakery,trash,Sarah Williams,prep area
+W271b9103,2025-02-10,INV005,Lettuce,5.6,kg,expired,22.4,produce,recycled,Emily Davis,storage
+W7ef5c964,2025-02-11,INV001,Tomatoes,6.2,kg,returned_by_customer,31.0,produce,donated,David Brown,prep area
+W5011f984,2025-02-12,INV007,Fish,2.4,kg,damaged,48.0,seafood,donated,Mike Johnson,kitchen
+W61fa18f6,2025-02-12,INV001,Tomatoes,1.4,kg,overproduction,7.0,produce,recycled,Sarah Williams,kitchen
+Wb9a35018,2025-02-12,INV008,Rice,2.1,kg,expired,4.2,dry goods,trash,Lisa Anderson,prep area
+W30c3aa43,2025-02-13,INV004,Bread,3.4,units,storage_error,8.5,bakery,donated,Lisa Anderson,kitchen
+W1a68d9ce,2025-02-14,INV002,Chicken Breast,1.4,kg,damaged,21.0,meat,trash,Lisa Anderson,storage
+Wf9603184,2025-02-14,INV004,Bread,6.4,units,preparation_waste,16.0,bakery,recycled,Chris Wilson,prep area
+Wdaf0132e,2025-02-14,INV008,Rice,3.5,kg,storage_error,7.0,dry goods,donated,Mike Johnson,display
+W835f1400,2025-02-15,INV010,Carrots,5.7,kg,storage_error,17.1,produce,donated,Jane Doe,prep area
+Wb21fe8da,2025-02-15,INV004,Bread,2.2,units,preparation_waste,5.5,bakery,compost,Lisa Anderson,storage
+Wc25d7b7a,2025-02-15,INV008,Rice,2.9,kg,spoiled,5.8,dry goods,recycled,David Brown,display
+Wf67b9621,2025-02-15,INV004,Bread,5.4,units,damaged,13.5,bakery,recycled,Lisa Anderson,display
+Wa629ea7b,2025-02-16,INV010,Carrots,2.3,kg,quality_issues,6.9,produce,trash,Lisa Anderson,kitchen
+W4517a623,2025-02-16,INV010,Carrots,1.9,kg,returned_by_customer,5.7,produce,compost,Chris Wilson,display
+W8e7924fc,2025-02-17,INV009,Eggs,4.9,dozen,quality_issues,22.05,dairy,compost,Mike Johnson,receiving
+W8b52b90c,2025-02-18,INV009,Eggs,5.0,dozen,quality_issues,22.5,dairy,compost,Mike Johnson,kitchen
+Wbc4c57a6,2025-02-18,INV003,Milk,1.7,L,expired,5.95,dairy,recycled,Jane Doe,storage
+W8f98ed35,2025-02-18,INV009,Eggs,2.8,dozen,preparation_waste,12.6,dairy,compost,David Brown,storage
+W141628df,2025-02-19,INV001,Tomatoes,7.3,kg,quality_issues,36.5,produce,recycled,Jane Doe,display
+Wa8236ade,2025-02-19,INV008,Rice,3.0,kg,storage_error,6.0,dry goods,compost,Jane Doe,kitchen
+W191deeac,2025-02-20,INV002,Chicken Breast,2.2,kg,expired,33.0,meat,compost,John Smith,receiving
+Wf5decb08,2025-02-21,INV002,Chicken Breast,0.7,kg,quality_issues,10.5,meat,donated,Sarah Williams,kitchen
+W263f179a,2025-02-21,INV002,Chicken Breast,0.9,kg,spoiled,13.5,meat,trash,Sarah Williams,receiving
+W7f386f7e,2025-02-22,INV010,Carrots,5.5,kg,storage_error,16.5,produce,trash,Emily Davis,display
+W7099336e,2025-02-22,INV008,Rice,4.3,kg,overproduction,8.6,dry goods,donated,Jane Doe,display
+W27b73baf,2025-02-22,INV004,Bread,6.5,units,expired,16.25,bakery,donated,Lisa Anderson,storage
+Wd3caf84e,2025-02-23,INV007,Fish,1.2,kg,preparation_waste,24.0,seafood,donated,Jane Doe,kitchen
+W85b3eb77,2025-02-23,INV010,Carrots,6.7,kg,returned_by_customer,20.1,produce,donated,John Smith,storage
+Wf6dfb0cf,2025-02-23,INV008,Rice,4.3,kg,overproduction,8.6,dry goods,donated,John Smith,storage
+We45bb107,2025-02-24,INV009,Eggs,4.7,dozen,storage_error,21.15,dairy,trash,Sarah Williams,prep area
+We692d111,2025-02-25,INV007,Fish,1.8,kg,damaged,36.0,seafood,recycled,Chris Wilson,storage
+W7fbbd269,2025-02-25,INV003,Milk,4.0,L,expired,14.0,dairy,donated,Jane Doe,storage
+W7f109272,2025-02-26,INV004,Bread,4.7,units,returned_by_customer,11.75,bakery,recycled,Mike Johnson,kitchen
+W39270fb6,2025-02-27,INV008,Rice,2.2,kg,spoiled,4.4,dry goods,donated,Lisa Anderson,prep area
+W38b95989,2025-02-27,INV009,Eggs,4.7,dozen,storage_error,21.15,dairy,donated,Jane Doe,display
+W5e651e00,2025-02-28,INV006,Cheese,4.9,kg,preparation_waste,58.8,dairy,trash,John Smith,display
+W8c83d724,2025-02-28,INV007,Fish,0.9,kg,damaged,18.0,seafood,recycled,Emily Davis,storage
+Wae61f6e0,2025-02-28,INV009,Eggs,1.9,dozen,quality_issues,8.55,dairy,compost,David Brown,prep area
+W09f55445,2025-03-01,INV004,Bread,4.0,units,quality_issues,10.0,bakery,compost,Jane Doe,prep area
+W0051133f,2025-03-01,INV006,Cheese,2.5,kg,expired,30.0,dairy,compost,David Brown,receiving
+W4fbc3348,2025-03-01,INV004,Bread,7.5,units,expired,18.75,bakery,trash,Lisa Anderson,storage
+Wf33c443d,2025-03-01,INV001,Tomatoes,1.9,kg,storage_error,9.5,produce,trash,Sarah Williams,kitchen
+W47157b24,2025-03-01,INV003,Milk,0.6,L,preparation_waste,2.1,dairy,recycled,John Smith,display
+Wa651e23a,2025-03-02,INV010,Carrots,5.8,kg,damaged,17.4,produce,donated,Jane Doe,display
+W60d06e88,2025-03-02,INV006,Cheese,2.1,kg,overproduction,25.2,dairy,donated,Sarah Williams,kitchen
+Wfcff4a64,2025-03-02,INV004,Bread,4.1,units,preparation_waste,10.25,bakery,donated,Lisa Anderson,receiving
+We2d7511f,2025-03-02,INV010,Carrots,2.0,kg,spoiled,6.0,produce,donated,Lisa Anderson,display
+W9b7f896f,2025-03-03,INV001,Tomatoes,5.6,kg,quality_issues,28.0,produce,recycled,Sarah Williams,prep area
+W782684e0,2025-03-04,INV010,Carrots,2.8,kg,damaged,8.4,produce,compost,Chris Wilson,prep area
+W91dd1b0f,2025-03-04,INV008,Rice,2.9,kg,storage_error,5.8,dry goods,recycled,Jane Doe,prep area
+W2e5733ab,2025-03-04,INV003,Milk,2.8,L,spoiled,9.8,dairy,trash,David Brown,receiving
+Wb141e6e0,2025-03-05,INV002,Chicken Breast,1.7,kg,overproduction,25.5,meat,donated,Jane Doe,storage
+We76a4138,2025-03-05,INV004,Bread,2.4,units,spoiled,6.0,bakery,recycled,David Brown,receiving
+W83c62681,2025-03-05,INV009,Eggs,3.2,dozen,returned_by_customer,14.4,dairy,compost,Lisa Anderson,display
+W1b0bbc9e,2025-03-06,INV005,Lettuce,7.4,kg,returned_by_customer,29.6,produce,donated,John Smith,kitchen
+We20c012e,2025-03-06,INV002,Chicken Breast,1.3,kg,damaged,19.5,meat,recycled,Sarah Williams,display
+W2a6d83c2,2025-03-07,INV008,Rice,4.6,kg,spoiled,9.2,dry goods,trash,Chris Wilson,kitchen
+Wfab23e27,2025-03-08,INV002,Chicken Breast,2.2,kg,spoiled,33.0,meat,trash,John Smith,display
+W4490b8df,2025-03-08,INV001,Tomatoes,5.1,kg,quality_issues,25.5,produce,recycled,Sarah Williams,receiving
+W1edb93e2,2025-03-08,INV003,Milk,3.5,L,expired,12.25,dairy,donated,Chris Wilson,storage
+W68dc4027,2025-03-08,INV006,Cheese,2.1,kg,overproduction,25.2,dairy,trash,Jane Doe,prep area
+Wa80d6529,2025-03-08,INV006,Cheese,2.5,kg,expired,30.0,dairy,trash,John Smith,receiving
+W7ab92e69,2025-03-09,INV009,Eggs,1.5,dozen,quality_issues,6.75,dairy,compost,Sarah Williams,kitchen
+W563adf28,2025-03-09,INV001,Tomatoes,4.1,kg,damaged,20.5,produce,recycled,John Smith,receiving
+W1ecba611,2025-03-09,INV009,Eggs,3.1,dozen,quality_issues,13.95,dairy,compost,Chris Wilson,display
+W7bbb7296,2025-03-10,INV009,Eggs,4.0,dozen,returned_by_customer,18.0,dairy,compost,David Brown,kitchen
+W36cc46b1,2025-03-10,INV008,Rice,0.7,kg,damaged,1.4,dry goods,compost,John Smith,prep area
+Wfd191be7,2025-03-11,INV007,Fish,2.5,kg,quality_issues,50.0,seafood,trash,Jane Doe,display
+We05d7359,2025-03-11,INV010,Carrots,3.9,kg,overproduction,11.7,produce,recycled,David Brown,display
+We051d02e,2025-03-12,INV007,Fish,0.9,kg,overproduction,18.0,seafood,donated,Lisa Anderson,receiving
+W4afce2b9,2025-03-12,INV002,Chicken Breast,2.2,kg,spoiled,33.0,meat,trash,Emily Davis,prep area
+W4402d5e3,2025-03-13,INV010,Carrots,5.8,kg,quality_issues,17.4,produce,donated,Emily Davis,kitchen
+W9b286460,2025-03-13,INV009,Eggs,4.8,dozen,damaged,21.6,dairy,recycled,Chris Wilson,display
+Wc7e10856,2025-03-14,INV005,Lettuce,4.5,kg,spoiled,18.0,produce,recycled,Mike Johnson,display
+Wd071933b,2025-03-14,INV001,Tomatoes,3.0,kg,quality_issues,15.0,produce,trash,David Brown,storage
+W9b6b34a0,2025-03-15,INV006,Cheese,3.1,kg,damaged,37.2,dairy,recycled,Mike Johnson,prep area
+Wd0663d7a,2025-03-15,INV008,Rice,4.9,kg,expired,9.8,dry goods,trash,Mike Johnson,storage
+W62084eaf,2025-03-15,INV009,Eggs,0.8,dozen,expired,3.6,dairy,recycled,Jane Doe,prep area
+Wc0b27344,2025-03-15,INV004,Bread,2.8,units,spoiled,7.0,bakery,trash,Mike Johnson,prep area
+We5d353eb,2025-03-15,INV003,Milk,1.4,L,spoiled,4.9,dairy,donated,Chris Wilson,receiving
+W4cb81b65,2025-03-16,INV007,Fish,0.9,kg,returned_by_customer,18.0,seafood,donated,Emily Davis,kitchen
+Wb93d2ecc,2025-03-16,INV006,Cheese,2.7,kg,spoiled,32.4,dairy,recycled,Mike Johnson,kitchen
+W8e12cbc5,2025-03-16,INV008,Rice,2.2,kg,storage_error,4.4,dry goods,donated,Jane Doe,kitchen
+W395397e8,2025-03-17,INV001,Tomatoes,3.4,kg,expired,17.0,produce,donated,Lisa Anderson,receiving
+W6ada9e3c,2025-03-18,INV009,Eggs,4.3,dozen,spoiled,19.35,dairy,trash,Lisa Anderson,display
+W035a53f1,2025-03-18,INV008,Rice,4.7,kg,returned_by_customer,9.4,dry goods,compost,David Brown,storage
+W3f5acbd3,2025-03-18,INV010,Carrots,1.2,kg,overproduction,3.6,produce,recycled,Emily Davis,storage
+Wdd5ca1e6,2025-03-19,INV002,Chicken Breast,0.7,kg,quality_issues,10.5,meat,trash,Mike Johnson,prep area
+W11f34496,2025-03-19,INV007,Fish,1.8,kg,quality_issues,36.0,seafood,donated,Mike Johnson,receiving
+W7720a8f0,2025-03-20,INV002,Chicken Breast,0.8,kg,overproduction,12.0,meat,recycled,Emily Davis,prep area
+W8f981873,2025-03-20,INV007,Fish,1.1,kg,expired,22.0,seafood,trash,Lisa Anderson,storage
+W9c7b1d8a,2025-03-21,INV010,Carrots,2.7,kg,quality_issues,8.1,produce,recycled,Lisa Anderson,display
+Wbb5847c5,2025-03-21,INV002,Chicken Breast,1.0,kg,spoiled,15.0,meat,recycled,John Smith,prep area
+W2e655423,2025-03-22,INV007,Fish,2.2,kg,preparation_waste,44.0,seafood,compost,Sarah Williams,kitchen
+W076be109,2025-03-22,INV002,Chicken Breast,0.6,kg,storage_error,9.0,meat,trash,Emily Davis,display
+W6d9c2e91,2025-03-22,INV005,Lettuce,5.5,kg,returned_by_customer,22.0,produce,recycled,Emily Davis,storage
+W59ea1824,2025-03-23,INV004,Bread,4.5,units,storage_error,11.25,bakery,compost,Mike Johnson,storage
+Wf082cb36,2025-03-23,INV007,Fish,0.9,kg,overproduction,18.0,seafood,compost,David Brown,display
+W62cf7e59,2025-03-23,INV007,Fish,1.2,kg,spoiled,24.0,seafood,recycled,Sarah Williams,display
+W7c6110a5,2025-03-24,INV008,Rice,1.7,kg,overproduction,3.4,dry goods,donated,David Brown,receiving
+We62dd25d,2025-03-24,INV006,Cheese,3.3,kg,expired,39.6,dairy,donated,David Brown,display
+W44fd88c3,2025-03-25,INV004,Bread,0.8,units,storage_error,2.0,bakery,compost,David Brown,receiving
+W564000de,2025-03-25,INV001,Tomatoes,5.0,kg,storage_error,25.0,produce,compost,David Brown,storage
+W10b9635a,2025-03-25,INV002,Chicken Breast,0.4,kg,damaged,6.0,meat,donated,Jane Doe,receiving
+W7f6bd8e1,2025-03-26,INV007,Fish,0.7,kg,expired,14.0,seafood,recycled,Lisa Anderson,prep area
+Wb8bd25df,2025-03-26,INV010,Carrots,1.2,kg,storage_error,3.6,produce,recycled,Emily Davis,display
+W512d0259,2025-03-26,INV007,Fish,1.1,kg,damaged,22.0,seafood,donated,Sarah Williams,storage
+Wbcfca7a9,2025-03-27,INV009,Eggs,0.7,dozen,quality_issues,3.15,dairy,recycled,Mike Johnson,storage
+W56845244,2025-03-27,INV005,Lettuce,6.7,kg,returned_by_customer,26.8,produce,recycled,John Smith,storage
+W3ca25eb5,2025-03-28,INV005,Lettuce,0.9,kg,expired,3.6,produce,donated,Sarah Williams,storage
+W207b253f,2025-03-28,INV006,Cheese,3.1,kg,damaged,37.2,dairy,trash,John Smith,receiving
+We54c01e7,2025-03-28,INV006,Cheese,2.5,kg,overproduction,30.0,dairy,compost,Jane Doe,receiving
+Wb274e0cf,2025-03-29,INV002,Chicken Breast,2.5,kg,overproduction,37.5,meat,donated,Lisa Anderson,receiving
+Wa18423b6,2025-03-29,INV005,Lettuce,5.3,kg,expired,21.2,produce,donated,David Brown,prep area
+We8982222,2025-03-29,INV005,Lettuce,3.0,kg,overproduction,12.0,produce,donated,Mike Johnson,kitchen
+W0b748c48,2025-03-29,INV006,Cheese,1.2,kg,preparation_waste,14.4,dairy,donated,Jane Doe,receiving
+Wa1a3e153,2025-03-29,INV002,Chicken Breast,2.1,kg,damaged,31.5,meat,compost,John Smith,storage
+W28563284,2025-03-30,INV001,Tomatoes,6.6,kg,overproduction,33.0,produce,donated,Sarah Williams,kitchen
+W26531351,2025-03-30,INV007,Fish,0.8,kg,expired,16.0,seafood,trash,John Smith,prep area

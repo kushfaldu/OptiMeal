@@ -1,0 +1,54 @@
+{
+  "totalWasteCost": "₹2,500",
+  "trend": "down",
+  "trendPercentage": "8%",
+  "highRiskItems": [
+    {
+      "name": "Fresh Vegetables",
+      "expiryDays": 2,
+      "quantity": "5 kg",
+      "potentialLoss": "₹600"
+    },
+    {
+      "name": "Chicken",
+      "expiryDays": 1,
+      "quantity": "3 kg",
+      "potentialLoss": "₹450"
+    },
+    {
+      "name": "Milk",
+      "expiryDays": 3,
+      "quantity": "4 L",
+      "potentialLoss": "₹200"
+    }
+  ],
+  "wasteByCategory": [
+    {
+      "category": "Vegetables",
+      "amount": "₹800",
+      "percentage": "32%"
+    },
+    {
+      "category": "Meat",
+      "amount": "₹1,000",
+      "percentage": "40%"
+    },
+    {
+      "category": "Dairy",
+      "amount": "₹400",
+      "percentage": "16%"
+    },
+    {
+      "category": "Grains",
+      "amount": "₹300",
+      "percentage": "12%"
+    }
+  ],
+  "recommendations": [
+    "Use FIFO method for vegetable storage",
+    "Adjust meat order quantities based on weekday demand",
+    "Monitor dairy product temperatures closely",
+    "Implement daily stock checks for high-risk items"
+  ],
+  "analysis": "Waste costs are trending down with an 8% reduction. Immediate attention needed for perishables expiring within 48 hours."
+} 
